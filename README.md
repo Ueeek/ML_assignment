@@ -1,3 +1,7 @@
 # Machine Learnigの課題のコード
-## fixme
-* lossのところをJ(w^t)-J(\hat w)に直す
+## 取り組んだ課題
+### 1.
+* logistic regression
+### 7.
+* comparing optimizers
+
